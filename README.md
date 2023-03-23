@@ -21,7 +21,7 @@
   </p>
   <h5 align="center"> :star: GitHub Statistics </h5>
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunjng5474&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunjng5474&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </p>
   </a>
 </p>
