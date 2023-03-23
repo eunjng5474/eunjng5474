@@ -1,8 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=250&section=header&text=Hello%20Eunjeong&fontSize=90) -->
 
-<a href="https://github.com/eunjng5474">
-  <h1 align="center"> :seedling: Eunjng </h1>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dms5474)](https://solved.ac/dms5474)
+<a href="https://github.com/eunjng5474" align="center">
+  <h2> :seedling: Eunjng </h2>
+  <a href="https://solved.ac/profile/dms5474">
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dms5474)](https://solved.ac/dms5474)</a>
+
 </a>
 
 <Br>
