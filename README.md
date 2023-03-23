@@ -2,11 +2,8 @@
 
 <a href="https://github.com/eunjng5474" align="center">
   <h2> :seedling: Eunjng </h2>
-  <a href="https://solved.ac/profile/dms5474">
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dms5474)](https://solved.ac/dms5474)</a>
-
 </a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dms5474)](https://solved.ac/dms5474)
 
 <Br>
 
