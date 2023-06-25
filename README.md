@@ -1,17 +1,12 @@
 <a href="https://github.com/eunjng5474">
-  <h1 align="center"> :seedling: Hello Eunjng </h1>
+  <h1 align="center"> :seedling: Hello Eunjeong </h1>
 </a>
 
 <p align="center">
-<!-- <div align="center">
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dms5474)](https://solved.ac/dms5474)<br>
-  
-</div> -->
 <p align="center">
   <a href="https://github.com/eunjng5474/">
   <p align="center">
-    <h5 align="center">:star: Skills </h5>
+    <h4 align="center">:star: Skills </h4>
       <div align="center">
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -32,20 +27,17 @@
   </p>
   <br>
   <p align="center">
-    <h5 align="center"> :moon: Languages </h5>
+    <h4 align="center"> :moon: Languages </h4>
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjng5474&layout=compact"><br><br>
     </p>
   </p>
-  <h5 align="center">📊 Etc</h5>
+  <h4 align="center">📊 Etc</h4>
   <div align="center">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dms5474)](https://solved.ac/dms5474)<br>
   
 </div>
-<!--   <h5 align="center"> 📊 GitHub Statistics </h5>
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunjng5474&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  </p> -->
+
   </a>
 </p>
