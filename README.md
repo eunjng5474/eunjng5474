@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjng5474&layout=compact"><br><br>
     </p>
   </p>
-  <h4 align="center">📊 Etc</h4>
+  <h4 align="center"> 📊 Etc </h4>
   <div align="center">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dms5474)](https://solved.ac/dms5474)<br>
