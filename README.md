@@ -7,7 +7,6 @@
   <a href="mailto:eunjng5474@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=eunjng5474@naver.com"/></a>&nbsp
     <a href="mailto:eunjng5474@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=eunjng5474@naver.com"/></a>&nbsp
   <a href="https://eunjng.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://eunjng.tistory.com"/></a>&nbsp
-  <a href="https://www.instagram.com/eun_jng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eun_jng/"/></a>&nbsp
 </p>
 <br>
 
