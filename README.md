@@ -1,6 +1,4 @@
-<a href="https://github.com/eunjng5474">
-  <h1 align="center"> :seedling: Hello EunJeong </h1>
-</a>
+<h1 align="center"> :seedling: Hello EunJeong </h1>
 
 <h3 align="center">📞 Contact </h4>
 <p align="center">
